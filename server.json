@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/predicthq",
   "title": "Predicthq",
   "description": "PredictHQ MCP — wraps the PredictHQ Events API (predicthq.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/predicthq",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-predicthq",
