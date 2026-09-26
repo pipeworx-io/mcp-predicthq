@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-predicthq",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PredictHQ MCP — wraps the PredictHQ Events API (predicthq.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6a53310ec6381d623f9687d05d6b1cbd312f11f242ab7872650ff3f599fd3eba",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-f09fce0963ce91cdb4187c8452ac4c6c088ac91a21b05d4bfbfecfa3c696d926",
+    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
   }
 }
