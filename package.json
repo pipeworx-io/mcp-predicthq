@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-predicthq",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "PredictHQ MCP — wraps the PredictHQ Events API (predicthq.com)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "predicthq",
     "gatewaySlug": "predicthq",
-    "sourceHash": "v1-d802286eea55b4a9573a1397f6fd9153a66e2b762639390d65123901edfb1a0f",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-35f1e84e1dafdd4141b02c0433695d179198ad2149041189534d69bb07059dfd",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
